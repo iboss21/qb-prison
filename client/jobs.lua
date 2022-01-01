@@ -13,7 +13,7 @@ local function CreateJobBlip()
 
         SetBlipSprite (currentBlip, 402)
         SetBlipDisplay(currentBlip, 4)
-        SetBlipScale  (currentBlip, 0.8)
+        SetBlipScale  (currentBlip, 0.2)
         SetBlipAsShortRange(currentBlip, true)
         SetBlipColour(currentBlip, 1)
 
