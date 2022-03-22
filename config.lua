@@ -31,14 +31,14 @@ Config.Locations = {
         }
     },
     ["freedom"] = {
-        coords = vector4(1843.8426, 2586.332, 46.01432, 267.39523)        
+        coords = vector4(1729.27, 2563.89, 45.56, 8.5)        
     },
     ["outside"] = {
-        coords = vector4(1848.13, 2586.05, 45.67, 269.5)
+        coords = vector4(1837.15, 2589.05, 46.01, 179.38)
 
     },
     ["yard"] = {
-        coords = vector4(1765.67, 2565.91, 45.56, 1.5)
+        coords = vector4(1754.02, 2501.54, 45.61, 211.91)
     },
     ["middle"] = {
         coords = vector4(1693.33, 2569.51, 45.55, 123.5)
